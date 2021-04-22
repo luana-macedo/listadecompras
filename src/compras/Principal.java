@@ -45,7 +45,7 @@ public static void main(String[] args) {
 		  listaDinamica.imprimeLista();//imprime a lista antes de remover
 		  System.out.println("Digite a posição do produto que deseja Remover:");
 		    listaDinamica.removeElemento(scan.nextInt());//ler a posicao que deseja remover
-		    System.out.println("Produto Removido com sucesso!");
+		    System.out.println("Produto Removido com sucesso!!!");
 		    
 	    break;
 ///-----------------Imprime na lista -------------------------------------
